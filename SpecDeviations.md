@@ -1,0 +1,3 @@
+So far, only two deviations from the [N-Triples](http://www.w3.org/TR/rdf-testcases/#ntriples)/[N-Quads](http://sw.deri.org/2008/07/n-quads/) spec are known:
+  * Parts of a statement (e.g. subject, predicate,...) are expected to separated by at least one space following the part. Then, an arbitrary amount of arbitrary white space may follow until the next part.
+  * The statement-ending full stop must be preceded by a space.
